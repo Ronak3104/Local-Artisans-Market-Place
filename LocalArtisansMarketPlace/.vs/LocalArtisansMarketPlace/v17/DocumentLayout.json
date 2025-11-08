@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\feedback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\pdf_generate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\pdf_generate.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|c:\\users\\ronak\\desktop\\awp project\\localartisansmarketplace\\localartisansmarketplace\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\pdf_generate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\pdf_generate.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\placeorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\placeorder.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\contactus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\addtocart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\addtocart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\addtocart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\addtocart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\localartisansmarketplace\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36228743-C4AA-4134-8CD2-EC1BD852E93C}|LocalArtisansMarketPlace\\LocalArtisansMarketPlace.csproj|solutionrelative:localartisansmarketplace\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feedback.aspx",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Feedback.aspx",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\Feedback.aspx",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Feedback.aspx",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\Feedback.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-27T12:52:20.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AboutUs.aspx",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-27T12:51:44.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pdf_generate.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Pdf_generate.aspx.cs",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\Pdf_generate.aspx.cs",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Pdf_generate.aspx.cs",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\Pdf_generate.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:48:41.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pdf_generate.aspx",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Pdf_generate.aspx",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\Pdf_generate.aspx",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Pdf_generate.aspx",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\Pdf_generate.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-24T14:28:49.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlaceOrder.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\PlaceOrder.aspx.cs",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\PlaceOrder.aspx.cs",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\PlaceOrder.aspx.cs",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\PlaceOrder.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T13:15:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactUs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\ContactUs.aspx.cs",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\ContactUs.aspx.cs",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\ContactUs.aspx.cs",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\ContactUs.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:43:39.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactUs.aspx",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\ContactUs.aspx",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\ContactUs.aspx",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\ContactUs.aspx",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\ContactUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-27T12:52:03.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProduct.aspx",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddProduct.aspx",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\AddProduct.aspx",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddProduct.aspx",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\AddProduct.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-21T13:49:15.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Default.aspx",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\Default.aspx",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\Default.aspx",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-03T10:34:08.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddToCart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddToCart.aspx.cs",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\AddToCart.aspx.cs",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddToCart.aspx.cs",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\AddToCart.aspx.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAAANAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T05:57:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddToCart.aspx",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddToCart.aspx",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\AddToCart.aspx",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddToCart.aspx",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\AddToCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-21T13:23:21.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProduct.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddProduct.aspx.cs",
+              "RelativeDocumentMoniker": "LocalArtisansMarketPlace\\AddProduct.aspx.cs",
+              "ToolTip": "C:\\Users\\Ronak\\Desktop\\AWP PROJECT\\LocalArtisansMarketPlace\\LocalArtisansMarketPlace\\AddProduct.aspx.cs",
+              "RelativeToolTip": "LocalArtisansMarketPlace\\AddProduct.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:57:50.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

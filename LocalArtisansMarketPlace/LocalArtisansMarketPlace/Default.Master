@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="LocalArtisansMarketPlace.Default" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            text-align: center;
+            width: 842px;
+        }
+        .auto-style2 {
+            height: 64px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="width: 1100px; margin: 0 auto;">
+                <tr style="width: 1100px; height: 50px; border-color: #5f98f3; background-color: white">
+                    <td style="width: 100px">
+                        <asp:Image ID="i1" runat="server" ImageUrl="~/Images/Handmadeheaven.png" Height="100px" Width="100px" /></td>
+                    <td class="auto-style1">
+                        <asp:Label ID="l1" runat="server" Text="HAND MADE HEAVEN " Font-Bold="True" Font-Names="Georgia" ForeColor="#6D0016" Font-Italic="True" Font-Overline="False" Font-Size="35pt"></asp:Label>
+                        <br />
+                        <asp:Label ID="l2" runat="server" Text="For those who love handmade crafts.......!!" Font-Size="Large" Font-Bold="True"></asp:Label>
+                    </td>
+                    <td style="width: 250px; text-align: right;">
+                        <asp:ImageButton ID="ib1" runat="server" Height="50px" ImageUrl="~/Images/Facebook icon.png" Width="50px" />
+                        <asp:ImageButton ID="ib2" runat="server" Height="50px" ImageUrl="~/Images/Twitter icon.png" Width="50px" />
+                        <asp:ImageButton ID="ib3" runat="server" Height="50px" ImageUrl="~/Images/Instagram icon.png" Width="50px" />
+                        <asp:ImageButton ID="ib4" runat="server" Height="50px" Width="50px" ImageUrl="~/Images/Cart icon.png" CausesValidation="False" OnClick="ib4_Click"/>
+                        <asp:Label ID="l3" runat="server" Font-Bold="True" ForeColor="#6D0016"></asp:Label>
+                    </td>
+                </tr>
+                <tr style="width: 1100px; height: 40px;">
+                    <td colspan="3" class="auto-style2">
+                        <asp:Menu ID="Menu1" runat="server" BackColor="#6D0016" BorderColor="#6D0016" Font-Size="Large" ForeColor="#FFE9D7" Orientation="Horizontal" Width="1140px">
+                            <Items>
+                                <asp:MenuItem Text="Home" Value="Home" NavigateUrl="~/Default.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Register" Value="Register" NavigateUrl="~/RegistrationForm.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="User Login" Value="User Login" NavigateUrl="~/LoginPage.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="About Us" Value="About Us" NavigateUrl="~/AboutUs.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Contact Us" Value="Contact Us" NavigateUrl="~/ContactUs.aspx"></asp:MenuItem>
+                                <asp:MenuItem Text="Feedback" Value="Feedback" NavigateUrl="~/Feedback.aspx"></asp:MenuItem>
+                            </Items>
+                            <StaticMenuItemStyle Font-Bold="False" HorizontalPadding="59px" Font-Size="Large"/>
+                            <StaticMenuStyle HorizontalPadding="4px" VerticalPadding="15px" />
+                        </asp:Menu>
+                    </td>
+                </tr>
+                <tr style="width: 1100px; height: 310px;">
+                    <td colspan="3">
+                        <asp:ScriptManager ID="sm1" runat="server"></asp:ScriptManager>
+                        <asp:UpdatePanel ID="up1" runat="server">
+                            <ContentTemplate>
+                                <asp:Timer ID="timer1" runat="server" Interval="1500" OnTick="timer1_Tick">
+                                </asp:Timer>
+                                <asp:Image ID="i2" runat="server" BackColor="White" BorderColor="Gray" BorderStyle="Double" Height="270px" Width="1140px" />
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="3">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr style="width: 1100px; height: 25px; background-color: black; text-align: center; color: white;">
+                    <td colspan="3">
+                        &copy; Online Hand Made Heaven | All Rights Reserved.
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>
